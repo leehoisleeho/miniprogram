@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <t-button theme="primary" size="large">填充按钮</t-button>
+  <t-button theme="light" size="large">填充按钮</t-button>
+  <t-button size="large">填充按钮</t-button>
+</view>
